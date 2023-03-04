@@ -31,20 +31,17 @@ body{
 .main_news{
     margin-top: 10px;
     background-color: #acdada;
-    display: flex;
+    padding: 20px;
+
 }
 .photo{
     padding: 20px;  
 }
 
-.div_photo{
-    display: inline-block;
-    width: 40%;
-    
-}
 .dis{
-    display: inline-block;
+    display: inline;
     width: 55%;
+    float: right;
 
 }
 .dis h2{
